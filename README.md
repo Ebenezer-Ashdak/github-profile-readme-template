@@ -4,6 +4,7 @@
 >
 > If you're new to this, GitHub's official guide (what it is + how to set it up) is here:
 > https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme
+>🔗 [Example README](https://github.com/lkrryba).
 >
 > **Once you've customized this template with your own information, delete this instructional section at the top!**
 
