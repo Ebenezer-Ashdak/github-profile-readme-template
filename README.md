@@ -27,11 +27,11 @@
 *Replace these with your own tech stack! Find more badges at [shields.io](https://shields.io) or [this repository](https://github.com/Ileriayo/markdown-badges)*
 
 ### Connect with me
-[LinkedIn](https://linkedin.com/in/yourprofile) • [My Scrimba Profile](https://scrimba.com/me/scrims) • [My Favorite Scrimba Course](https://scrimba.com/learn-javascript-c0v?via=[YOUR-AFFILIATE-LINK]) • [I Built This on Scrimba](https://scrimba.com/scrim/yourscrim?via=[YOUR-AFFILIATE-LINK]) • [Portfolio](#)
+[LinkedIn](https://linkedin.com/in/yourprofile) • [My Scrimba Profile](https://scrimba.com/me/scrims) • [My Favorite Scrimba Course](https://scrimba.com/learn-javascript-c0v) • [I Built This on Scrimba](#) • [Portfolio](#)
 
 **Don't forget to add your Scrimbassador link to the end of the URLs above!** (e.g., `https://scrimba.com/learn-javascript-c0v?via=[YOUR-AFFILIATE-LINK]`)
 
-[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors?via=[YOUR-AFFILIATE-LINK])
+[![20% Discount off Scrimba](https://i.ibb.co/HD3x73NB/scrimbassadors-cta.png)](https://scrimba.com/scrimbassadors)
 
 ---
 
