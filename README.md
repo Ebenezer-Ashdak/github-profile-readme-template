@@ -1,6 +1,4 @@
-> Hi Scrimbassadors! Here's a GitHub Profile README template you can use as a starting point to make your Github profile more fun and informative.
->
-> A profile "README" is a special repository named exactly the same as your GitHub username. The `README.md` from that repo appears at the top of your GitHub profile, so you can add a short bio, highlight projects, share additional links and whatever else you like. This is just a base template we recommend styling it however you please, so get creative!
+A profile "README" is a special repository named exactly the same as your GitHub username. The `README.md` from that repo appears at the top of your GitHub profile, so you can add a short bio, highlight projects, share additional links and whatever else you like. This is just a base template we recommend styling it however you please, so get creative!
 >
 > If you're new to this, chec out [GitHub's official guide](https://docs.github.com/en/account-and-profile/how-tos/profile-customization/managing-your-profile-readme) (what it is + how to set it up).
 > 
@@ -11,13 +9,13 @@
 
 # Hello, Universe!
 
-- 🧠 **What I build:** [Your description here - e.g., web apps, mobile games, dev tools, etc.]
+- 🧠 **What I build:** [Real world applications- e.g., web apps, mobile games, mini python programs, etc.]
 
-- 🎨 **What I care about:** [Your description here - e.g., clean code, accessibility, performance, etc.]
+- 🎨 **What I care about:** [Adaptable and human readable code- e.g., clean code, accessibility, performance, etc.]
 
-- 🧩 **Tech I'm using:** [Your tech stack - e.g., React, Python, PostgreSQL, etc.]
+- 🧩 **Tech I'm using:** [My tech stack - e.g., Html and Python]
 
-- 🚀 **Fun fact:** [Something interesting about you or your coding journey]
+- 🚀 **Fun fact:** [I'm a self tought programmer who prefers to work alone or with people of my caliber, which means all my skills and Knowledge are gotten through my intense curiosity.]
 
 ### 🛠️ My Toolkit
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
